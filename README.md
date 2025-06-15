@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NotHurtGarci
 - 🚩 Languages: ES & ENG
 - 👀 I’m interested in all releated with programming. :P
-- 🌱 I’m currently mastering my Lua, C, C++, Rust, NodeJs and React skills.
-- 🐋 Working also in my SRE skills such as Docker, Kubernetes, Jenkins, RabbitMQ, gRCP, Grafana...
+- 💻 Releasing soon: https://www.fivengin.com
+- 🚀 Running the Spanish Community of https://www.fivemon.gg 
 - 📫 How to reach me: You can talk with me via Discord at this user name HurtGarci#6040
 - PD: If you see anything you could help me on my GitHub repositories, do not hesitate to ask me about it :D
 <!---
